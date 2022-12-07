@@ -1,5 +1,5 @@
-import { Button } from "components/Button/Button";
-import css from "./StatusFilter.module.css";
+import { Button } from 'components/Button/Button';
+import css from './StatusFilter.module.css';
 
 export const StatusFilter = () => {
   return (
